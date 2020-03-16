@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Nunito Sans", sans-serif;
+    color: #ffff12;
+    margin: 0;
+    background-color: #292c33;
+    text-align: center;
+    /* position: relative; */
+}
+
+.country_info p {
+    padding: 5px 0;
+    font-weight: bold;
+}
+
+p {
+    font-size: 0.8em;
+    margin-top: 20px;
+}
+
+p.footer {
+    padding: 6% 0 3%;
+
+}
+
+img {
+    margin-top: 20px;
+    height: auto;
+    width: 80vw;
+}
